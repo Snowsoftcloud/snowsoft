@@ -80593,7 +80593,7 @@ return A.N($async$x4,r)},
 xL(a){return this.aff(a)},
 aff(a){var s=0,r=A.O(t.a),q,p,o,n,m
 var $async$xL=A.P(function(b,c){if(b===1)return A.L(c,r)
-while(true)switch(s){case 0:p=A.eZ("http://192.168.1.9:5000/enviar_codigo_cadastro",0,null)
+while(true)switch(s){case 0:p=A.eZ("https://snowsoft.com.br:5000/enviar_codigo_cadastro",0,null)
 o=t.N
 n=A.aw(["Content-Type","application/json; charset=UTF-8"],o,o)
 s=3
